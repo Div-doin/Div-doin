@@ -46,6 +46,6 @@ Link:github.com/Div-doin/UIDAI
 
 ## 🌐 Connect with Me
 
-LinkedIn:linkedin.com/in/divyesh-sahay/
+LinkedIn: [linkedin.com/in/divyesh-sahay/](https://www.linkedin.com/in/divyesh-sahay/)
 Portfolio: (your portfolio link)  
 Email: divyeshsahay048@gmail.com
